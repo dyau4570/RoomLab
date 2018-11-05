@@ -35,7 +35,8 @@ public class Runner {
 			if (validMove(move, player1, building)) {
 				System.out.println("Your coordinates: row = " + player1.getxLoc() + " col = " + player1.getyLoc());
 
-			} else {
+			}
+			else {
 				System.out.println("Please choose a valid move.");
 			}
 		}

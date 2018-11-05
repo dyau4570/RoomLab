@@ -1,6 +1,5 @@
 package Rooms;
 
-import Game.Runner;
 import People.Person;
 
 public class FloorRoom extends Room
